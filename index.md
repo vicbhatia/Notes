@@ -1,3 +1,3 @@
-<br>Compliance as code</br>
-<br>Automation brings relief</br>
-<br>Efficiency gained</br>
+<br>Compliance as code
+<br>Automation brings relief
+<br>Efficiency gained
